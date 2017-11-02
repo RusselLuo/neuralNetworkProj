@@ -99,12 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
-<<<<<<< HEAD
 
 #vscode
 .vscode/
 .classify/practical-pytorch
 .classify/handWrittenNumberClassifier/HandWrittenData
 .classify/imageClassifier
-=======
->>>>>>> parent of 05ebb1b... ignore extra files
+./data
