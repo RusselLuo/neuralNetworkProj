@@ -60,6 +60,6 @@ for i in range(len(tags)):
 print('predict tags:',predTags)
 print('real tags:',tags)
 print("accuracy:",same/len(tags))
-torch.save(net,'irisClassifier')
+torch.save(net,'irisClassifier.pkl')
 
 print('done!!')
